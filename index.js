@@ -16,7 +16,7 @@ class Dog {
   }
   
   speak() {
-    `${this.name} says woof!`;
+    return `${this.name} says woof!`;
   }
 }
 
@@ -28,7 +28,7 @@ class Bird {
   
   speak() {
     if (this.sex == 'male') {
-      
+     return  
     }
   }
 }

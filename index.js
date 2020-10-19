@@ -5,6 +5,6 @@ class Cat {
   }
   
   speak() {
-    return `$
+    return `${this.name} says 
   }
 }

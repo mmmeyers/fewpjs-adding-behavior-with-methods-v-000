@@ -1,3 +1,5 @@
 class Cat {
-  constructor(name, sex)
+  constructor(name, sex) {
+    
+  }
 }

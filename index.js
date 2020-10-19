@@ -4,5 +4,7 @@ class Cat {
     this.sex = sex;
   }
   
-  speak()
+  speak() {
+    return 
+  }
 }
